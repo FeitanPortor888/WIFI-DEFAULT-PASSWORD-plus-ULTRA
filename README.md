@@ -23,7 +23,7 @@ https://github.com/engrpanda/WIFI-DEFAULT-PASSWORD-plus-ULTRA/releases
 
 [ wlan + “6 generated Mac address” ]
 
-Sample: PLDTFIBR_c5c4c9
+Sample: PLDTHOMEFBRhSqJj
 
 Convert the last 6 digits/letters to the corresponding hex code
 
